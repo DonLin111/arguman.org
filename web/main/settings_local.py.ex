@@ -17,7 +17,7 @@ DEBUG = True
 
 SERVER_EMAIL = 'info@arguman.org'
 BASE_DOMAIN = 'localhost:8000' #your docker machine ip if running on virtual server
-MONGODB_HOST = 'localhost' #your docker machine ip if running on virtual server
+MONGODB_HOST = 'mongodb' #your docker machine ip if running on virtual server
 
 # CACHES = {
 #     "default": {
