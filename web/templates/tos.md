@@ -40,8 +40,6 @@ Pro-Cons.org reserves the right to prevent any individual or entity from quoting
 
 During your visit to Pro-Cons.org, cookies and similar elements may be placed on your computer. Cookies are simple text files that do not contain identity or other private information. While they do not contain personal data, session information and similar details are stored and may be used to recognize you and provide related services. For more information about cookies, you can visit (http://www.allaboutcookies.org/) (http://en.wikipedia.org/wiki/http_cookie), or http://en.wikipedia.org/wiki/çerez_(internet). (We are not responsible for the reliability of the content you may access through these links.)
 
-During your visit to Pro-Cons.org, your IP address and other data collected through your computer are recorded anonymously by Pro-Cons.org.
-
 ### Rights and Obligations of Pro-Cons.org
 
 Pro-Cons.org may change the terms of service without prior notice. Therefore, we recommend reviewing the terms periodically.
