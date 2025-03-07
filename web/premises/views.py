@@ -595,6 +595,9 @@ class ArgumentCreationView(LoginRequiredMixin, CreateView):
         return form_class
 
     def form_valid(self, form):
+        if not self.request.user.is_staff:
+            messages.error(self.request, "Only admins can create arguments.")
+            return redirect('home')
         form.instance.user = self.request.user
         form.instance.ip_address = get_ip_address(self.request)
         form.instance.language = normalize_language_code(get_language())

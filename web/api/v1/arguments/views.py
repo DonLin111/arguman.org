@@ -21,7 +21,7 @@ class ContentionViewset(viewsets.ModelViewSet):
                                                    'premises__supporters')\
                                  .select_related('user', 'premises__parent',
                                                  'premises__user')
-    permission_classes = (permissions.IsAuthenticatedOrReadOnly,)
+    permission_classes = (permissions.IsAdminUser,)
     serializer_class = ContentionSerializer
     paginate_by = 20
     filter_backends = (filters.SearchFilter, filters.DjangoFilterBackend,
@@ -38,6 +38,8 @@ class ContentionViewset(viewsets.ModelViewSet):
         return Response(serializer.data)
 
     def create_argument(self, request):
+        if not request.user.is_staff:
+            return Response({'detail': 'Only admins can create arguments.'}, status=status.HTTP_403_FORBIDDEN)
         serializer = self.serializer_class(
             data=request.data, initial={'ip': request.META['REMOTE_ADDR'],
                                         'user': request.user})
