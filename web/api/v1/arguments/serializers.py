@@ -65,6 +65,12 @@ class ContentionSerializer(serializers.ModelSerializer):
     def get_absolute_url(self, obj):
         return reverse("api-contention-detail", args=[obj.id])
 
+    def validate(self, data):
+        user = self.context['request'].user
+        if not user.is_staff and not user.is_superuser:
+            raise serializers.ValidationError("You do not have permission to create an argument.")
+        return data
+
 
 class PremiseReportSerializer(serializers.ModelSerializer):
     reporter = UserProfileSerializer(read_only=True)
