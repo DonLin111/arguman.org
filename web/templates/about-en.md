@@ -13,46 +13,7 @@ You can think argument mappings as visual hierarchy mappings.
 
 Pro-Cons.org’s aim is arguments to be mapped successfully by many users.
 
-## Who Are We
 
-Pro-Cons.org is an open source project which developed by community, If you want to contribute technically or intellectually please don’t hesitate to visit following github link.
 
-<https://github.com/arguman>
 
-## Team
-- [Fatih Erikli](http://fatiherikli.com) (founder, developer)
-- [Aybars Badur](https://twitter.com/aybarsbadur) (developer)
-- [Tuna Vargı](http://tunavargi.com/) (developer)
-- [Bahattin Çiniç](http://bahattincinic.com/) (developer)
-- [Halil Kaya](http://halilkaya.net) (android app developer)
-
-## Contributors
-- [Kağan Yaldızkaya](https://dribbble.com/kagan) (design)
-- [Can Göktaş](https://twitter.com/cangokt) (front-end developer)
-- [Hüseyin Mert](https://twitter.com/hmert) (project management)
-- [Mehmet İnce](https://twitter.com/mdisec) (penetration test)
-- [Samet Aydemir](https://twitter.com/samet_aydemir) ([chrome plugin](https://chrome.google.com/webstore/detail/arguman/infgfejecdecnalkcjfemcibiponjban/related?hl=tr))
-- [Çağlar Bozkurt](http://caglarbozkurt.com) (android app developer)
-- [Ray](https://github.com/tvvocold) (Çince Yerelleştirme)
-- [Jorge Barata](jorge.barata.gonzalez@gmail.com) (spanish translations)
-- Alejo Duque (spanish translations)
-- [Ricardo Casares](http://analogic.al) (spanish translations)
-
-Also many thanks for intellectual support during development of arguman.org to Burak Arıkan & Kadir Akkara.
-
-## Web Press
-
-- [Webrazzi](http://webrazzi.com/2014/10/31/arguman-org-platform/)
-- [Verigazeteciligi](http://www.verigazeteciligi.com/arguman-org-arguman-analiz-ve-haritalama-platformu/)
-- [VenturesZone](http://ventureszone.com/girisimler/turk-girisimler/arguman-org-arguman-analiz-ve-haritalama-platformu/)
-- [Bigumigu](http://bigumigu.com/haber/bir-argumaniniz-mi-var-gecerliligini-tartisalim)
-- [Adaptasyon](http://adaptasyon.tumblr.com/post/105016798063/adaptasyon-4-d%C3%B6nem-2-b%C3%B6l%C3%BCm-argumanorg) (podcast)
-
-## Events
-- [Galatasaray University Debating Society](http://arguman.org/blog/galatasaray-universitesi-munazara-egitimi-gunlerindeydik/)
-
-## Donations
-If you want to support us for server costs: <br>
-<http://paypal.me/arguman>
-
-If you have a general question, a suggestion or some feedback, you can email us: [argumananalizi@gmail.com](mailto:argumananalizi@gmail.com) 
+Pro-Cons.org is Powered by Arguman

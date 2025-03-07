@@ -1,56 +1,55 @@
 ## Terms of Service
 
-Pro-Cons.org'u ziyaretiniz ve Pro-Cons.org içeriğini kullanımınız aşağıdaki kullanım şartlarına tabidir:
+Your visit to Pro-Cons.org and use of its content are subject to the following terms of service:
 
-### Uygunsuz İçerik
+### Inappropriate Content
 
-Pro-Cons.org içeriği önceden kontrol edilmiyor olması nedeniyle 18 yaşından küçüklere uygun olmayabilir. çocuklarınızın gelişimini olumsuz etkileyecek içeriklerden uzak durmasını sağlayabileceğiniz filtre yazılımları bulunmaktadır, bunları kullanmanızı tavsiye ederiz. internet'in çocuklarca güvenli kullanımı konusunda bilgilendirme için: (http://www.guvenliweb.org.tr/annebabakilavuz/) 
+Since the content of Pro-Cons.org is not pre-screened, it may not be suitable for individuals under the age of 18. We recommend using filtering software to ensure your children avoid content that could negatively affect their development.
 
-### Hukuka aykırı içerik ve şikayet
+### Unlawful Content and Complaints
 
-Pro-Cons.org(site), Pro-Cons.org'a ait olup, 5651 sayılı kanun çerçevesinde yer sağlayıcı sıfatı’yla(yer sağlayıcı belge no:XXXX t:XX/XX/20XX) hizmet vermektedir. kullanıcılar tarafından oluşturulan içerikler herhangi bir ön incelemeye tabi olmaksızın ve doğrudan kullanıcılar tarafından yayına alınmaktadır. tarafımıza başvurulmadığı müddetçe, yayınlanan içeriğin hukuka uygunluğunu denetleme yükümlülüğümüz bulunmamaktadır. ancak, Pro-Cons.org yer sağladığı içeriğin hukuka uygunluğunu sağlamaya özen göstermekte, bu nedenle yapılan her başvuruyu dikkatle değerlendirmektedir.
+Content created by users is published directly without any prior review. We are not obligated to monitor the legality of the published content unless we receive a formal complaint. However, Pro-Cons.org strives to ensure that the hosted content complies with the law, and every complaint is carefully evaluated.
 
-bir argümanda yer alan önermeler genelde farklı kullanıcılara ait olmaktadır. bu nedenle, başlıklarda yer alan her bir yazı 'şikayet' butonu kullanılarak ayrı ayrı şikayet edilebilmektedir. bunun haricinde, sitede yer alan iletişim arabiriminden bize ulaşabilirsiniz.
+Statements within an argument typically belong to different users. Therefore, each post under a topic can be reported individually using the 'report' button. Additionally, you can reach us through the contact interface provided on the site.
 
-şikayetleriniz kişisel haberleşme niteliğinde olmayıp, şikayetiniz ve iletişim bilgileriniz gerekli görüldüğü takdirde yayınlanabilir, üçüncü kişilerle ve/veya yasal mercilerle paylaşılabilir. bu nedenle şikayetlerinizde ifşa edilmesini istemediğiniz beyanlarda bulunmamanızı tavsiye ederiz.
+Your complaints are not considered private communication, and your complaint and contact information may be published, shared with third parties, and/or legal authorities if deemed necessary. Therefore, we advise against including statements in your complaints that you do not wish to be disclosed.
 
-## Kullanım
+### Usage
 
-sitede yer alan hizmetler ve içeriklerden şahsi kullanımınız için faydalanmanız gerekmektedir. site tarafından sunulan hizmetlerin ve Pro-Cons.org’tan yazılı izin alınmadığı müddetçe ticari amaçla kullanılması yasaktır. 
+The services and content provided on the site are intended for your personal use. Using the services offered by the site for commercial purposes without written permission from Pro-Cons.org is strictly prohibited.
 
-sitemize çeşitli yazılımlar veya aletler kullanarak; izinsiz giriş yapma, veri değiştirme veya başka işlemlerle sitenin işleyişine müdahale etme veya engelleme, sitenin işleyişini kasıtlı olarak yavaşlatma, virüs vs. zararlı içerik yüklemek suretiyle Pro-Cons.org’e zarar verme girişiminde bulunduğunuz takdirde Pro-Cons.org’un yasal yollara başvurma hakkı saklıdır.
+If you attempt unauthorized access, modify data, interfere with or disrupt the site's operation using various software or tools, intentionally slow down the site's functionality, or attempt to harm Pro-Cons.org by uploading viruses or other harmful content, Pro-Cons.org reserves the right to take legal action.
 
+### Content
 
-# İçerik
+Pro-Cons.org does not claim or guarantee that the content hosted on the site is accurate and/or up-to-date. On the contrary, users are allowed to create entirely fictional content. Since we do not intervene in the content hosted on Pro-Cons.org except for cases mentioned in the "Unlawful Content and Complaints" section above, we are not responsible for any direct or indirect material and/or moral losses that may arise from referencing any information, comments, suggestions, or shared experiences on Pro-Cons.org.
 
-Pro-Cons.org’te yer alan içeriğin doğru ve/veya güncel olduğu hiçbir şekilde iddia veya garanti edilmemektedir. aksine, kullanıcılar tamamen gerçekdışı içerik dahi üretebilirler. Pro-Cons.org’te yer alan içeriğe yukarıda 'hukuka aykırı içerik ve şikayet' kısmında belirtilen haller dışında müdahale edilmediğinden, Pro-Cons.org’te yer alan herhangi bir bilgi, yorum, öneri, tecrübe paylaşımı ve benzeri içeriğin referans alınması nedeniyle oluşabilecek (dolaylı veya doğrudan)maddi ve/veya manevi herhangi bir kaybınızdan sorumlu olmadığımızı belirtmek isteriz.
+We do not assume any responsibility for links or redirects (links) provided on Pro-Cons.org. Pro-Cons.org neither controls the content of links and redirects nor guarantees that the content is accurate, that the redirected address is free from viruses, trojans, phishing, or similar harmful elements, or that the redirected site complies with legal regulations.
 
-Pro-Cons.org’te yer alan bağlantılara/yönlendirmelere (link) ilişkin hiçbir sorumluluğumuz bulunmamaktadır. Pro-Cons.org bağlantı ve yönlendirmelerin içeriğini kontrol etmediği gibi, içeriğin doğruluğu, yönlendirilen adreste virüs, trojan, phishing ve benzeri zararlı bir unsur olmadığı veya yönlendirilen sitenin hukuka uygun olduğu gibi veya benzeri hiçbir bir garanti vermemektedir.
+### Copyright and Citation
 
-## Telif hakları ve alıntı
+Pro-Cons.org is a compilation work, and all rights (copying, reproduction, adaptation, dissemination) related to the compilation, content, and site code belong to Pro-Cons.org. Provisions of agreements made between users and Pro-Cons.org regarding the content are reserved.
 
-Pro-Cons.org bir derleme eser olup, derleme esere (içerik) ve site kodlarına ilişkin tüm haklar(kopyalama, çoğaltma, işleme, yayma) Pro-Cons.org’ye aittir. içeriğe ilişkin kullanıcılar ile Pro-Cons.org arasında yapılmış sözleşme hükümleri saklıdır.
+You may quote Pro-Cons.org content provided that you do not alter the content, include active links referencing the relevant user and Pro-Cons.org, and use it for non-commercial purposes. However, even if all these rules are followed, quoting should not cover all of the work, its topics, or titles, and should not eliminate the need to visit Pro-Cons.org for the full content.
 
-Pro-Cons.org içeriğini, içeriği değiştirmemek, ilgili kullanıcıya ve Pro-Cons.org’e aktif link vererek atıfta bulunmak ve ticari amaç gütmeden kullanmak kaydıyla alıntılamanız mümkündür ancak tüm bu kurallara uyulsa dahi alıntılama eserin, konularının veya başlıklarının tümünü kapsamayacak ve tam içeriğe ulaşmak için Pro-Cons.org'ün ziyaret edilmesi ihtiyacını ortadan kaldırmayacak düzeyde olmalıdır.
+Unless explicitly permitted in writing, it is prohibited to use the site content partially or entirely for commercial purposes and/or to generate revenue through advertisements or similar means.
 
-aksi yönde açık yazılı izin olmadığı müddetçe site içeriğinin kısmen veya tamamen ticari amaçla ve/veya reklam ve benzeri gelir elde edecek şekilde kullanılması yasaktır. 
+Pro-Cons.org reserves the right to prevent any individual or entity from quoting, even if they comply with the above rules.
 
-Pro-Cons.org’nin dilediği zaman, dilediği kişi veya kurumun yukarıdaki kurallara uyarak dahi alıntı yapmasını engelleme hakkı saklıdır.
+### Privacy
 
-## Gizlilik
+During your visit to Pro-Cons.org, cookies and similar elements may be placed on your computer. Cookies are simple text files that do not contain identity or other private information. While they do not contain personal data, session information and similar details are stored and may be used to recognize you and provide related services. For more information about cookies, you can visit (http://www.allaboutcookies.org/) (http://en.wikipedia.org/wiki/http_cookie), or http://en.wikipedia.org/wiki/çerez_(internet). (We are not responsible for the reliability of the content you may access through these links.)
 
-Pro-Cons.org’te bulunduğunuz süre boyunca 'cookie' olarak da adlandırılan çerezlerin ve buna benzer unsurların bilgisayarınıza yerleştirilmesi söz konusu olabilir. çerezler basit metin dosyalarından ibaret olup, kimlik ve sair özel bilgiler içermez, bu nevi kişisel bilgi içermemekle beraber, oturum bilgileri ve benzeri veriler saklanır ve sizi tekrar tanımak ve benzeri hizmetler için kullanılabilir. bu konuda daha fazla bilgiyi (http://www.allaboutcookies.org/) (http://en.wikipedia.org/wiki/http_cookie) ve http://tr.wikipedia.org/wiki/çerez_(internet) adreslerinden edinebilirsiniz. (verilen linklerden ulaşacağınız içeriğin güvenilirliğine ilişkin sorumluluğumuz bulunmamaktadır.)
+During your visit to Pro-Cons.org, your IP address and other data collected through your computer are recorded anonymously by Pro-Cons.org.
 
-Pro-Cons.org'ü ziyaretiniz esnasında ip adresiniz ve bilgisayarınız aracılığıyla toplanabilen diğer veriler Pro-Cons.org tarafından anonim olarak kaydedilmektedir.
+### Rights and Obligations of Pro-Cons.org
 
-## Pro-Cons.org’un hak ve yükümlülükleri
+Pro-Cons.org may change the terms of service without prior notice. Therefore, we recommend reviewing the terms periodically.
 
-Pro-Cons.org kullanım koşullarını önceden bildirmeksizin değiştirebilir. bu nedenle kullanım koşullarını belirli aralıklarla incelemeniz öneririz.
+Pro-Cons.org reserves the right to modify, terminate, add new elements, or charge for any elements of the site without prior notice.
 
-Pro-Cons.org, Pro-Cons.org'u oluşturan tüm unsurları önceden haber vermeksizin değiştirme, sona erdirme, yenilerini ekleme, ücretlendirme haklarını saklı tutmaktadır.
+Pro-Cons.org reserves the right to temporarily or permanently block access to Pro-Cons.org for certain individuals, institutions, IP numbers, or IP blocks if deemed necessary.
 
-Pro-Cons.org, gerekli gördüğü takdirde belli kişilerin, kurumların, ip numaralarının veya ip bloklarının Pro-Cons.org'e erişimini geçici veya kalıcı olarak durdurma hakkını saklı tutar.
+While Pro-Cons.org takes precautions to ensure that the site does not contain viruses or other harmful content, due to advancing technology, technical issues, and other reasons, there is a possibility that your computer may be infected with viruses, trojans, or similar malicious software. We recommend using antivirus programs and similar applications to mitigate such risks. We do not accept any responsibility for any software- or hardware-related damages you may encounter while browsing our site. By using our site, you agree not to make any claims against us for such issues.
 
-sitenin virüs ve sair zararlı içerik barındırmaması için özen sarf edilmekle birlikte, gelişen teknoloji, teknik sorun ve diğer nedenlerle bilgisayarınıza virüs, trojan gibi zararlı yazılımların bulaşması ihtimali bulunmaktadır. bu gibi risklere karşı antivirüs programları ve benzeri uygulamalar kullanmanızı tavsiye ederiz. sitemizde gezinmeniz dolayısıyla karşılaşabileceğiniz yazılımsal ve donanımsal dahil olmak üzere hiçbir zarara ilişkin sorumluluk kabul etmemekteyiz. bu nedenlerle sitemizden talepte bulunmayacağınızı peşinen kabul etmektesiniz.
-
-bu belge son olarak 26.10.2014 tarihinde güncellenmiştir.
+This document was last updated on April, 2025.
