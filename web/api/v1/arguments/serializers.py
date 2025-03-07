@@ -67,7 +67,7 @@ class ContentionSerializer(serializers.ModelSerializer):
 
     def validate(self, data):
         user = self.context['request'].user
-        if not user.is_staff and not user.is_superuser:
+        if not user.is_superuser:
             raise serializers.ValidationError("You do not have permission to create an argument.")
         return data
 

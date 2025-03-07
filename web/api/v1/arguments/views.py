@@ -43,7 +43,7 @@ class ContentionViewset(viewsets.ModelViewSet):
         return Response(serializer.data)
 
     def create_argument(self, request):
-        if not request.user.is_staff and not request.user.is_superuser:
+        if not request.user.is_superuser:
             return Response({'detail': 'You do not have permission to perform this action.'},
                             status=status.HTTP_403_FORBIDDEN)
         serializer = self.serializer_class(
