@@ -11,5 +11,8 @@
       <a href="https://github.com/arguman/arguman.org/issues/" class="submit">Report as Error</a> |
       <a href="{% url "home" %}" class="submit">Return to Home Page</a> |
     </p>
+    <div class="error-details">
+        {% include "error_details.html" %}
+    </div>
 </div>
 {% endblock %}

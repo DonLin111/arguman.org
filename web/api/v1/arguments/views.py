@@ -15,6 +15,11 @@ from api.v1.users.serializers import UserProfileSerializer
 from newsfeed.models import Entry
 
 
+class IsAdminUser(permissions.BasePermission):
+    def has_permission(self, request, view):
+        return request.user and (request.user.is_staff or request.user.is_superuser)
+
+
 class ContentionViewset(viewsets.ModelViewSet):
     queryset = Contention.objects.filter(is_published=True)\
                                  .prefetch_related('premises',
@@ -38,6 +43,9 @@ class ContentionViewset(viewsets.ModelViewSet):
         return Response(serializer.data)
 
     def create_argument(self, request):
+        if not request.user.is_staff and not request.user.is_superuser:
+            return Response({'detail': 'You do not have permission to perform this action.'},
+                            status=status.HTTP_403_FORBIDDEN)
         serializer = self.serializer_class(
             data=request.data, initial={'ip': request.META['REMOTE_ADDR'],
                                         'user': request.user})
@@ -168,7 +176,8 @@ class PremiseSupportViewset(PremiseViewset):
 
 
 contention_list = ContentionViewset.as_view(
-    {'get': 'list', 'post': 'create_argument'}
+    {'get': 'list', 'post': 'create_argument'},
+    permission_classes=[IsAdminUser]
 )
 contention_detail = ContentionViewset.as_view(
     {'get': 'retrieve', 'put': 'update_argument',
