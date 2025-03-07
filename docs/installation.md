@@ -100,6 +100,7 @@ For the app to use redis as a cache you have to define `CACHES` settings in your
     cd web
     python manage.py migrate
     python manage.py createsuperuser
+    python manage.py collectstatic
     python manage.pr runserver
 
 ## The End
