@@ -13,11 +13,6 @@ class ArgumentCreationForm(FormRenderer, forms.ModelForm):
         model = Contention
         fields = ['title', 'owner', 'sources']
 
-    def __init__(self, *args, **kwargs):
-        super(ArgumentCreationForm, self).__init__(*args, **kwargs)
-        if not self.current_user.is_staff:
-            raise ValidationError(_('Only admins can create arguments.'))
-
 
 class PremiseCreationForm(FormRenderer, forms.ModelForm):
 
