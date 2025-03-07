@@ -11,11 +11,11 @@ Argument mapping is producing "boxes and arrows" diagrams of reasoning, especial
 
 You can think argument mappings as visual hierarchy mappings.
 
-Arguman.org’s aim is arguments to be mapped successfully by many users.
+Pro-Cons.org’s aim is arguments to be mapped successfully by many users.
 
 ## Who Are We
 
-Arguman.org is an open source project which developed by community, If you want to contribute technically or intellectually please don’t hesitate to visit following github link.
+Pro-Cons.org is an open source project which developed by community, If you want to contribute technically or intellectually please don’t hesitate to visit following github link.
 
 <https://github.com/arguman>
 

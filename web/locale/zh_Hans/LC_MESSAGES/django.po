@@ -199,8 +199,6 @@ msgid "Premise Content"
 msgstr "论述内容"
 
 #: premises/models.py:462
-#, fuzzy
-#| msgid "Related Arguments"
 msgid "Related Argument"
 msgstr "相关参数"
 
@@ -302,14 +300,15 @@ msgid ""
 "You're receiving this email because you requested a password reset for your "
 "user account at arguman.org"
 msgstr ""
+"您收到此电子邮件是因为您请求重置 arguman.org 上的用户帐户的密码"
 
 #: templates/auth/password_reset_email.html:4
 msgid "Please go to the following page and choose a new password:"
-msgstr ""
+msgstr "请访问以下页面并选择一个新密码："
 
 #: templates/auth/password_reset_email.html:8
 msgid "Your username, in case you've forgotten:"
-msgstr ""
+msgstr "您的用户名，以防您忘记："
 
 #: templates/auth/password_reset_form.html:7
 msgid "Reset Password"
@@ -498,8 +497,7 @@ msgid "created an argument:"
 msgstr "创建一个论点："
 
 #: templates/newsfeed/fallacy.html:4
-#, fuzzy, python-format
-#| msgid "reported <strong>%(fallacy)s</strong> fallacy for a premise:"
+#, python-format
 msgid "reported <strong>%(fallacy)s</strong> for a premise."
 msgstr "报告此论述 <strong>%(fallacy)s</strong> 为谬误:"
 
@@ -513,8 +511,6 @@ msgstr ""
 "%(username)s</a>"
 
 #: templates/newsfeed/premise.html:5
-#, fuzzy
-#| msgid "created an argument:"
 msgid "associated with another argument"
 msgstr "创建一个论点："
 
@@ -614,20 +610,14 @@ msgid "remove"
 msgstr "删除"
 
 #: templates/premises/base_contention.html:6
-#, fuzzy
-#| msgid "Argument"
 msgid "Argument Map"
 msgstr "论点"
 
 #: templates/premises/base_contention.html:33
-#, fuzzy
-#| msgid "sender:"
 msgid "sender"
 msgstr "发送者"
 
 #: templates/premises/base_contention.html:41
-#, fuzzy
-#| msgid "sources:"
 msgid "source"
 msgstr "信息源："
 
@@ -636,14 +626,10 @@ msgid "Unspecified"
 msgstr "不明确的"
 
 #: templates/premises/base_contention.html:52
-#, fuzzy
-#| msgid "ARGUMENT"
 msgid "RELATED ARGUMENTS"
-msgstr "论点"
+msgstr "相关参数"
 
 #: templates/premises/base_contention.html:55
-#, fuzzy
-#| msgid "Share"
 msgid "share"
 msgstr "分享"
 
@@ -971,38 +957,87 @@ msgstr "精选"
 msgid "New"
 msgstr "最新提交"
 
-#~ msgid "Argument Analysis Platform"
-#~ msgstr "论点分析平台"
+#: templates/tos.md:1
+msgid "Terms of Service"
+msgstr "服务条款"
 
-#~ msgid "You have no new notifications."
-#~ msgstr "你有新的消息。"
+msgid "Pro-Cons.org'u ziyaretiniz ve Pro-Cons.org içeriğini kullanımınız aşağıdaki kullanım şartlarına tabidir:"
+msgstr "您访问 Pro-Cons.org 并使用 Pro-Cons.org 内容受以下使用条款的约束："
 
-#~ msgid "original discourse:"
-#~ msgstr "原话"
+msgid "Uygunsuz İçerik"
+msgstr "不当内容"
 
-#~ msgid "Edit"
-#~ msgstr "编辑"
+msgid "Pro-Cons.org içeriği önceden kontrol edilmiyor olması nedeniyle 18 yaşından küçüklere uygun olmayabilir. çocuklarınızın gelişimini olumsuz etkileyecek içeriklerden uzak durmasını sağlayabileceğiniz filtre yazılımları bulunmaktadır, bunları kullanmanızı tavsiye ederiz. internet'in çocuklarca güvenli kullanımı konusunda bilgilendirme için: (http://www.guvenliweb.org.tr/annebabakilavuz/)"
+msgstr "由于 Pro-Cons.org 内容未经过预先审核，可能不适合 18 岁以下的未成年人。我们建议您使用过滤软件，以确保您的孩子远离可能对其成长产生负面影响的内容。有关儿童安全使用互联网的信息，请访问：http://www.guvenliweb.org.tr/annebabakilavuz/"
 
-#~ msgid "Unpublish"
-#~ msgstr "取消发布"
+msgid "Hukuka aykırı içerik ve şikayet"
+msgstr "非法内容和投诉"
 
-#~ msgid "Publish"
-#~ msgstr "发布"
+msgid "Pro-Cons.org(site), Pro-Cons.org'a ait olup, 5651 sayılı kanun çerçevesinde yer sağlayıcı sıfatı’yla(yer sağlayıcı belge no:XXXX t:XX/XX/20XX) hizmet vermektedir. kullanıcılar tarafından oluşturulan içerikler herhangi bir ön incelemeye tabi olmaksızın ve doğrudan kullanıcılar tarafından yayına alınmaktadır. tarafımıza başvurulmadığı müddetçe, yayınlanan içeriğin hukuka uygunluğunu denetleme yükümlülüğümüz bulunmamaktadır. ancak, Pro-Cons.org yer sağladığı içeriğin hukuka uygunluğunu sağlamaya özen göstermekte, bu nedenle yapılan her başvuruyu dikkatle değerlendirmektedir."
+msgstr "Pro-Cons.org（网站）属于 Pro-Cons.org，并根据第 5651 号法律作为内容提供者（内容提供者证书编号：XXXX t:XX/XX/20XX）提供服务。用户生成的内容未经任何预审，并由用户直接发布。除非我们收到投诉，否则我们没有义务审查发布内容的合法性。然而，Pro-Cons.org 致力于确保其提供的内容的合法性，因此我们会仔细评估每个投诉。"
 
-#~ msgid "View"
-#~ msgstr "查看"
+msgid "bir argümanda yer alan önermeler genelde farklı kullanıcılara ait olmaktadır. bu nedenle, başlıklarda yer alan her bir yazı 'şikayet' butonu kullanılarak ayrı ayrı şikayet edilebilmektedir. bunun haricinde, sitede yer alan iletişim arabiriminden bize ulaşabilirsiniz."
+msgstr "一个论点中的前提通常属于不同的用户。因此，标题中的每篇文章都可以使用“投诉”按钮单独投诉。除此之外，您还可以通过网站上的联系界面与我们联系。"
 
-#~ msgid "Recently Updated"
-#~ msgstr "最新提交"
+msgid "şikayetleriniz kişisel haberleşme niteliğinde olmayıp, şikayetiniz ve iletişim bilgileriniz gerekli görüldüğü takdirde yayınlanabilir, üçüncü kişilerle ve/veya yasal mercilerle paylaşılabilir. bu nedenle şikayetlerinizde ifşa edilmesini istemediğiniz beyanlarda bulunmamanızı tavsiye ederiz."
+msgstr "您的投诉不具有个人通信性质，如果需要，您的投诉和联系信息可能会被发布，并与第三方和/或法律机构共享。因此，我们建议您在投诉中不要披露不希望公开的声明。"
 
-#~ msgid "Search"
-#~ msgstr "搜索"
+msgid "Kullanım"
+msgstr "使用"
 
-#~ msgid "last sender:"
-#~ msgstr "最近的发布者："
+msgid "sitede yer alan hizmetler ve içeriklerden şahsi kullanımınız için faydalanmanız gerekmektedir. site tarafından sunulan hizmetlerin ve Pro-Cons.org’tan yazılı izin alınmadığı müddetçe ticari amaçla kullanılması yasaktır."
+msgstr "您应仅为个人使用网站上提供的服务和内容。未经 Pro-Cons.org 书面许可，禁止将网站提供的服务用于商业目的。"
 
-#~ msgid "and others."
-#~ msgstr "和其他人。"
+msgid "sitemize çeşitli yazılımlar veya aletler kullanarak; izinsiz giriş yapma, veri değiştirme veya başka işlemlerle sitenin işleyişine müdahale etme veya engelleme, sitenin işleyişini kasıtlı olarak yavaşlatma, virüs vs. zararlı içerik yüklemek suretiyle Pro-Cons.org’e zarar verme girişiminde bulunduğunuz takdirde Pro-Cons.org’un yasal yollara başvurma hakkı saklıdır."
+msgstr "如果您使用各种软件或工具未经授权访问我们的网站，修改数据或进行其他操作以干扰或阻止网站的运行，故意减慢网站的运行速度，或通过上传病毒等有害内容对 Pro-Cons.org 造成损害，Pro-Cons.org 保留采取法律行动的权利。"
 
-#~ msgid "most supported users"
-#~ msgstr "支持度最高的用戶"
+msgid "İçerik"
+msgstr "内容"
+
+msgid "Pro-Cons.org’te yer alan içeriğin doğru ve/veya güncel olduğu hiçbir şekilde iddia veya garanti edilmemektedir. aksine, kullanıcılar tamamen gerçekdışı içerik dahi üretebilirler. Pro-Cons.org’te yer alan içeriğe yukarıda 'hukuka aykırı içerik ve şikayet' kısmında belirtilen haller dışında müdahale edilmediğinden, Pro-Cons.org’te yer alan herhangi bir bilgi, yorum, öneri, tecrübe paylaşımı ve benzeri içeriğin referans alınması nedeniyle oluşabilecek (dolaylı veya doğrudan)maddi ve/veya manevi herhangi bir kaybınızdan sorumlu olmadığımızı belirtmek isteriz."
+msgstr "Pro-Cons.org 上的内容的准确性和/或时效性不作任何声明或保证。相反，用户可能会生成完全虚假的内容。由于 Pro-Cons.org 不会干预上述“非法内容和投诉”部分中提到的情况之外的内容，因此我们不对因参考 Pro-Cons.org 上的任何信息、评论、建议、经验分享等内容而导致的（直接或间接）任何物质和/或精神损失负责。"
+
+msgid "Pro-Cons.org’te yer alan bağlantılara/yönlendirmelere (link) ilişkin hiçbir sorumluluğumuz bulunmamaktadır. Pro-Cons.org bağlantı ve yönlendirmelerin içeriğini kontrol etmediği gibi, içeriğin doğruluğu, yönlendirilen adreste virüs, trojan, phishing ve benzeri zararlı bir unsur olmadığı veya yönlendirilen sitenin hukuka uygun olduğu gibi veya benzeri hiçbir bir garanti vermemektedir."
+msgstr "我们对 Pro-Cons.org 上的链接/重定向（链接）不承担任何责任。Pro-Cons.org 不会控制链接和重定向的内容，也不对内容的准确性、链接地址中是否存在病毒、木马、网络钓鱼等有害元素或链接网站的合法性等提供任何保证。"
+
+msgid "Telif hakları ve alıntı"
+msgstr "版权和引用"
+
+msgid "Pro-Cons.org bir derleme eser olup, derleme esere (içerik) ve site kodlarına ilişkin tüm haklar(kopyalama, çoğaltma, işleme, yayma) Pro-Cons.org’ye aittir. içeriğe ilişkin kullanıcılar ile Pro-Cons.org arasında yapılmış sözleşme hükümleri saklıdır."
+msgstr "Pro-Cons.org 是一部汇编作品，汇编作品（内容）和网站代码的所有权利（复制、再版、处理、传播）均归 Pro-Cons.org 所有。与内容相关的用户与 Pro-Cons.org 之间的合同条款保留。"
+
+msgid "Pro-Cons.org içeriğini, içeriği değiştirmemek, ilgili kullanıcıya ve Pro-Cons.org’e aktif link vererek atıfta bulunmak ve ticari amaç gütmeden kullanmak kaydıyla alıntılamanız mümkündür ancak tüm bu kurallara uyulsa dahi alıntılama eserin, konularının veya başlıklarının tümünü kapsamayacak ve tam içeriğe ulaşmak için Pro-Cons.org'ün ziyaret edilmesi ihtiyacını ortadan kaldırmayacak düzeyde olmalıdır."
+msgstr "您可以引用 Pro-Cons.org 的内容，前提是不更改内容，向相关用户和 Pro-Cons.org 提供活动链接，并且不用于商业目的。然而，即使遵守所有这些规则，引用也不应涵盖作品、主题或标题的全部内容，并且不应消除访问 Pro-Cons.org 以获取完整内容的需求。"
+
+msgid "aksi yönde açık yazılı izin olmadığı müddetçe site içeriğinin kısmen veya tamamen ticari amaçla ve/veya reklam ve benzeri gelir elde edecek şekilde kullanılması yasaktır."
+msgstr "除非有明确的书面许可，否则禁止部分或全部商业目的和/或广告等收入的使用网站内容。"
+
+msgid "Pro-Cons.org’nin dilediği zaman, dilediği kişi veya kurumun yukarıdaki kurallara uyarak dahi alıntı yapmasını engelleme hakkı saklıdır."
+msgstr "Pro-Cons.org 保留在任何时候阻止任何个人或机构引用上述规则的权利。"
+
+msgid "Gizlilik"
+msgstr "隐私"
+
+msgid "Pro-Cons.org’te bulunduğunuz süre boyunca 'cookie' olarak da adlandırılan çerezlerin ve buna benzer unsurların bilgisayarınıza yerleştirilmesi söz konusu olabilir. çerezler basit metin dosyalarından ibaret olup, kimlik ve sair özel bilgiler içermez, bu nevi kişisel bilgi içermemekle beraber, oturum bilgileri ve benzeri veriler saklanır ve sizi tekrar tanımak ve benzeri hizmetler için kullanılabilir. bu konuda daha fazla bilgiyi (http://www.allaboutcookies.org/) (http://en.wikipedia.org/wiki/http_cookie) ve http://tr.wikipedia.org/wiki/çerez_(internet) adreslerinden edinebilirsiniz. (verilen linklerden ulaşacağınız içeriğin güvenilirliğine ilişkin sorumluluğumuz bulunmamaktadır.)"
+msgstr "在您访问 Pro-Cons.org 期间，可能会在您的计算机上放置称为“cookie”的小文件和类似元素。Cookie 只是简单的文本文件，不包含身份和其他个人信息，尽管它们不包含此类个人信息，但会存储会话信息和类似数据，并可用于再次识别您和提供类似服务。有关此方面的更多信息，请访问：http://www.allaboutcookies.org/、http://en.wikipedia.org/wiki/http_cookie 和 http://tr.wikipedia.org/wiki/çerez_(internet)（我们对提供的链接内容的可靠性不承担任何责任）。"
+
+msgid "Pro-Cons.org'ü ziyaretiniz esnasında ip adresiniz ve bilgisayarınız aracılığıyla toplanabilen diğer veriler Pro-Cons.org tarafından anonim olarak kaydedilmektedir."
+msgstr "在您访问 Pro-Cons.org 期间，通过您的 IP 地址和计算机收集的其他数据将由 Pro-Cons.org 以匿名方式记录。"
+
+msgid "Pro-Cons.org’un hak ve yükümlülükleri"
+msgstr "Pro-Cons.org 的权利和义务"
+
+msgid "Pro-Cons.org kullanım koşullarını önceden bildirmeksizin değiştirebilir. bu nedenle kullanım koşullarını belirli aralıklarla incelemeniz öneririz."
+msgstr "Pro-Cons.org 可在不事先通知的情况下更改使用条款。因此，我们建议您定期查看使用条款。"
+
+msgid "Pro-Cons.org, Pro-Cons.org'u oluşturan tüm unsurları önceden haber vermeksizin değiştirme, sona erdirme, yenilerini ekleme, ücretlendirme haklarını saklı tutmaktadır."
+msgstr "Pro-Cons.org 保留在不事先通知的情况下更改、终止、添加新元素和收费的权利。"
+
+msgid "Pro-Cons.org, gerekli gördüğü takdirde belli kişilerin, kurumların, ip numaralarının veya ip bloklarının Pro-Cons.org'e erişimini geçici veya kalıcı olarak durdurma hakkını saklı tutar."
+msgstr "Pro-Cons.org 保留在必要时暂时或永久停止某些个人、机构、IP 地址或 IP 块访问 Pro-Cons.org 的权利。"
+
+msgid "sitenin virüs ve sair zararlı içerik barındırmaması için özen sarf edilmekle birlikte, gelişen teknoloji, teknik sorun ve diğer nedenlerle bilgisayarınıza virüs, trojan gibi zararlı yazılımların bulaşması ihtimali bulunmaktadır. bu gibi risklere karşı antivirüs programları ve benzeri uygulamalar kullanmanızı tavsiye ederiz. sitemizde gezinmeniz dolayısıyla karşılaşabileceğiniz yazılımsal ve donanımsal dahil olmak üzere hiçbir zarara ilişkin sorumluluk kabul etmemekteyiz. bu nedenlerle sitemizden talepte bulunmayacağınızı peşinen kabul etmektesiniz."
+msgstr "尽管我们尽力确保网站不包含病毒和其他有害内容，但由于技术进步、技术问题和其他原因，您的计算机可能会感染病毒、木马等有害软件。我们建议您使用防病毒程序和类似应用程序来应对这些风险。我们不对您在浏览我们的网站时可能遇到的任何软件和硬件损害承担责任。您在此预先同意不因这些原因向我们提出任何要求。"
+
+msgid "bu belge son olarak 26.10.2014 tarihinde güncellenmiştir."
+msgstr "本文件最后更新于 2014 年 10 月 26 日。"

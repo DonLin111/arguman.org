@@ -103,12 +103,8 @@ DEFAULT_LANGUAGE = 'en'
 BASE_DOMAIN = 'arguman.org'
 
 AVAILABLE_LANGUAGES = (
-    'tr',
     'en',
-    'ch',
-    'es',
-    'fr',
-    'pl'
+    'ch'
 )
 
 LANGUAGE_CODE_MAPPING = {
