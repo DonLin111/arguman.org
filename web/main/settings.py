@@ -138,6 +138,7 @@ TEMPLATE_DIRS = (
     os.path.join(os.path.dirname(__file__), "../templates"),
 )
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'collected_static')
 
 # Social Auth Settings
 AUTHENTICATION_BACKENDS = (
